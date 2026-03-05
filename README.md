@@ -23,8 +23,12 @@ I'm building hands-on cybersecurity skills through home lab projects, CTF challe
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
-**Penetration Testing:** Nmap · Metasploit · Burp Suite · Hydra · Scapy  
-**Network:** Wireshark · tcpdump · pfSense · Suricata IDS  
+**Reconnaissance:** Nmap · Scapy · Wireshark · tcpdump  
+**Web:** Burp Suite · OWASP ZAP · Gobuster · Dirb · ffuf · Nikto · SQLmap  
+**Exploitation:** Metasploit · MSFvenom · Netcat  
+**Password Attacks:** Hydra · John the Ripper · Hashcat  
+**Post-Exploitation:** Mimikatz · BloodHound  
+**Network:** pfSense · Suricata IDS  
 **Languages:** Python · Bash
 
 ---
@@ -49,9 +53,9 @@ I'm building hands-on cybersecurity skills through home lab projects, CTF challe
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andawakin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andawakin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andawakin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![GitHub Streak](https://streak-stats.demolab.com?user=andawakin&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 ---
 
