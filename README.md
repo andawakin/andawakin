@@ -46,7 +46,7 @@ I'm building hands-on cybersecurity skills through home lab projects, CTF challe
 
 - 🔭 Building offensive security tools for my pentest portfolio
 - 🌱 Studying for **CEH** (Certified Ethical Hacker)
-- ⚔️ Practicing on **TryHackMe** — Top 4% globally
+- ⚔️ Practicing on **TryHackMe** — Top 3% globally
 - 📖 Learning: network protocols, exploit development, Active Directory attacks
 
 ---
