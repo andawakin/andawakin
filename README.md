@@ -63,9 +63,7 @@ I'm building hands-on cybersecurity skills through home lab projects, CTF challe
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019cbf76-3a50-73dd-b984-55b23994c7bf)
 
-<a href="https://tryhackme.com/p/andawakin" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/andawakin.png" alt="TryHackMe Badge" />
-</a>
+[![TryHackMe](https://tryhackme.com/share/capability-score/andawakin)](https://tryhackme.com/p/andawakin)
 
 ---
 
