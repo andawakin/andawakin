@@ -36,9 +36,11 @@ I'm building hands-on cybersecurity skills through home lab projects, CTF challe
 ## 🔬 Projects
 
 | Project | Description | Stack |
-|---|---|---|
+| --- | --- | --- |
 | [network-recon-toolkit](https://github.com/andawakin/network-recon-toolkit) | Network reconnaissance toolkit — host discovery, port scanning, service enumeration | Python, Nmap |
 | [homelab-security](https://github.com/andawakin/homelab-security) | Virtual cybersecurity lab with pfSense firewall, Suricata IDS, Kali Linux | pfSense, Suricata, Kali |
+| [kali-encrypted-persistence](https://github.com/andawakin/kali-encrypted-persistence) | Kali Linux Live USB with LUKS2 encrypted persistence and nuke password protection | Bash, LUKS2, cryptsetup |
+| [ctf-writeups](https://github.com/andawakin/ctf-writeups) | TryHackMe CTF writeups — 17 rooms with full walkthroughs and screenshots | Kali, Nmap, Burp Suite |
 
 ---
 
